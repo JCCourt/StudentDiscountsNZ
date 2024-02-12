@@ -31,7 +31,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [ASB](https://www.asb.co.nz/bank-accounts/level-up.html)
 
--- Free account fees, Free debit card, Free Visa Light credit card, with no annual fees, 6 months interest-free on purchases over $1,000 and a low interest rate of 13.50%, Unlimited transactions
+-- Free account fees, Free debit card, with no annual fees, 6 months interest-free on purchases over $1,000 and a low interest rate of 13.50%, Unlimited transactions
 
 ### [The Co-oporative Bank](https://www.co-operativebank.co.nz/everyday-banking/tertiary?utm_source=moneyhub&utm_medium=website&utm_campaign=tertiary&utm_content=GotoSite)
 
