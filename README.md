@@ -181,6 +181,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- All students can get up to 180 days of Premium for free. Verify your student status with ISIC, ITIC, or UNiDAYS.
 
+### [Unity](https://unity.com/products/unity-student)
+
+--- Access the real-time 3D development platform and workflows professionals use to create immersive experiences across industries. Free for students.
+
 # Transport 🚌
 
 ### [Auckland Transport](https://at.govt.nz/bus-train-ferry/at-hop-card/card-concessions-discount-fares/tertiary-student-concession)
