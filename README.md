@@ -177,6 +177,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- 70% off Create Cloud All Apps A$22.99 (~24.45 NZD) per month.
 
+### [Kick Resume](https://www.kickresume.com/en/students/)
+
+-- All students can get up to 180 days of Premium for free. Verify your student status with ISIC, ITIC, or UNiDAYS.
+
 # Transport 🚌
 
 ### [Auckland Transport](https://at.govt.nz/bus-train-ferry/at-hop-card/card-concessions-discount-fares/tertiary-student-concession)
