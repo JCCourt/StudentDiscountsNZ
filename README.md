@@ -173,6 +173,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends. $1000's of credit, free services and education materials.
 
+### [Linkedin Learning (AUT Students)](https://www.linkedin.com/learning/)
+
+-- Free access to Linkedin Learning as an AUT student
+
 ### [Adobe](https://www.adobe.com/nz/creativecloud/buy/students.html)
 
 -- 70% off Create Cloud All Apps A$22.99 (~24.45 NZD) per month.
