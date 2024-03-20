@@ -181,10 +181,6 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- 70% off Create Cloud All Apps A$22.99 (~24.45 NZD) per month.
 
-### [Kick Resume](https://www.kickresume.com/en/students/)
-
--- All students can get up to 180 days of Premium for free. Verify your student status with ISIC, ITIC, or UNiDAYS.
-
 ### [Unity](https://unity.com/products/unity-student)
 
 --- Access the real-time 3D development platform and workflows professionals use to create immersive experiences across industries. Free for students.
