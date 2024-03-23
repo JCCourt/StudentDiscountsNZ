@@ -218,10 +218,6 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- Simply enter our student flight discount code NZSTUDENT to enjoy our exclusive student fares and benefits.
 
-### [Emirates (Until 31/3/2024 & between 16 - 31)](https://www.emirates.com/nz/english/special-offers/student-special-fares/)
-
--- using the promo code STUDENT to get discounts of up to 10% on Economy Class and Business Class fares. You also get 10kg more or 1 extra piece on top of our generous baggage allowances and flexible options to change your flight. For journeys to/from Canada and USA, the standard baggage allowances apply. Conditions apply.
-
 ---
 
 ## Contributing
