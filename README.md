@@ -214,10 +214,6 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- Student discounts are available on selected services only. Student discounts do not apply to InterCity transport passes or tours.
 
-### [Cathay Pacific (Until 2/4/2024)](https://flights.cathaypacific.com/en_NZ/offers/student-flights.html)
-
--- Simply enter our student flight discount code NZSTUDENT to enjoy our exclusive student fares and benefits.
-
 ---
 
 ## Contributing
