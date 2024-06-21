@@ -142,7 +142,8 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [AUT Gym](https://gym.aut.ac.nz/memberships)
 
--- $12 per week all campuses or $8 south campus only.
+-- $12 per week all campuses or $8 south campus only. 
+-- AUT students get 20% off all products (protein powder, bars and drinks).
 
 ### [Les Mills](https://www.lesmills.co.nz/memberships)
 
