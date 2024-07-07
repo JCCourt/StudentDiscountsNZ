@@ -168,6 +168,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- 15% off on full-priced fabric products
 
+### [Leather Italiano](https://leatheritaliano.com)
+
+-- 15% off all Italian Leather products. Use the discount code 'Student'.
+
 # Software 💿
 
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
