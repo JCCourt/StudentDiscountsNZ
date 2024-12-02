@@ -199,10 +199,6 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 *Note if you recieve student allowance you likely might have a community services card which gives you an even greater discount 
 
-### [Beam (Wellington Only)](https://www.ridebeam.com/beam-for-all)
-
--- 50% off trips
-
 ### [Lime (Community Services Card Only)](https://www.li.me/en-nz/why/community/lime-access)
 
 -- 50% off trips
