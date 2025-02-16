@@ -203,6 +203,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- 50% off trips
 
+### [Flamingo Scooters](https://flamingoscooters.com/discounts)
+
+-- Around 50% off trips
+
 ### [Wilson Parking](https://www.wilsonparking.co.nz/promos/university-parking-deals/)
 
 -- Reserve monthly carpark with 24/7 access at a discounted rate.
