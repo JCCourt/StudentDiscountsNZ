@@ -130,6 +130,10 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 -- Receieve Dell education pricing on selected products and services.
 
+### [Cursor](https://www.cursor.com/students)
+
+-- University students (including those in New Zealand) can claim a free one-year Cursor Pro subscription upon verification.
+
 # Health & Fitness 💪
 
 ### [AUT Health Auckland North Shore for AUT Students](https://aih.aut.ac.nz/costs)
