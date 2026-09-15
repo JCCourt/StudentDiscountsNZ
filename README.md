@@ -53,7 +53,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [3 Peaks](https://www.3peakpass.co.nz/)
 
--- The 3 Peak Season Pass gives you a huge variety of terrain across Coronet Peak and The Remarkables in Queenstown and NZ's best ski resort Mt Hutt in Canterbury. No holiday blackouts, FREE Night Skiing at Coronet Peak and a whole lot more.
+-- The 3 Peaks Season Pass gives you a huge variety of terrain across Coronet Peak and The Remarkables in Queenstown and NZ's best ski resort Mt Hutt in Canterbury. No holiday blackouts, FREE Night Skiing at Coronet Peak and a whole lot more.
 
 ### [Auckland Zoo](https://www.aucklandzoo.co.nz/tickets)
 
@@ -61,7 +61,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [Motat](https://www.motat.nz/visit/prices/)
 
--- $10 with student id, instead of regular adult price of $19
+-- $10 with student id, instead of regular adult price of $19.
 
 ### [Event Cinemas](https://support.eventcinemas.co.nz/support/solutions/articles/51000372004-what-are-the-different-ticket-options-available-to-purchase-)
 
@@ -73,7 +73,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [Hoyts Cinemas](https://www.hoyts.co.nz/)
 
--- Discount on movie tickets with a valid tertiary ID
+-- Discount on movie tickets with a valid tertiary ID.
 
 ### [Spotify](https://www.spotify.com/nz/student/)
 
@@ -138,7 +138,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [AUT Health Auckland North Shore for AUT Students](https://aih.aut.ac.nz/costs)
 
--- Discounted Dentistry 
+-- Discounted Dentistry
 
 ### [Grafton Clinic](https://www.optometryclinics.auckland.ac.nz/pricing/)
 
@@ -151,7 +151,7 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [Les Mills](https://www.lesmills.co.nz/memberships)
 
--- $25.90 Weekly + $29 Join free (12 month min term, Les Mills At Home, Pause up to 8 weeks, Unlimited Classes)
+-- $25.90 Weekly + $29 Join free (12 month min term, Les Mills At Home, Pause up to 8 weeks, Unlimited Classes).
 
 ### [YMCA City Centre](https://www.ymcanorth.org.nz/find-your-local/auckland-city-fitness/fitness/gym-membership-pricing/)
 
@@ -198,6 +198,12 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 --- 12 Months of Perplexity Pro (NO CREDIT CARD REQUIRED). Access to Study Mode for interactive flashcards and quizzes, 10x as many citations in answers, Access to Perplexity Labs, Unlimited file and photo uploads, Extended access to Perplexity Research, One subscription for all the latest AI models including GPT-5 and Claude Sonnet 4, $5.00 in API credits & Exclusive access to Pro Perks and more.
 
+### [Google AI Plus/Pro](https://one.google.com/u/1/ai-student?g1_landing_page=75)
+
+> Requires SheerID verification (you may get a message that your organization hasn't approved SheerID, but still works without it).
+* 12 months of Google AI Plus (includes 400GB Google Drive) for free, or
+* Up to 4 years of Google AI Pro (includes 5TB Google Drive, YouTube Premium Lite) for $9.49/mo
+
 # Transport 🚌
 
 ### [Auckland Transport](https://at.govt.nz/bus-train-ferry/at-hop-card/card-concessions-discount-fares/tertiary-student-concession)
@@ -221,13 +227,12 @@ For day-to-day savings on your expenses, this card can be a game changer so it i
 
 ### [Interislander](https://www.interislander.co.nz/book/discount-fares-for-students)
 
--- Reduced fare price for student boiokings even if parents car etc. Stackable with other coupons.
+-- Reduced fare price for student bookings even if parents car etc. Stackable with other coupons.
 
 ### [Intercity](https://www.intercity.co.nz/travel-info/standard-vs-flexi-fares/student)
 
 -- Student discounts are available on selected services only. Student discounts do not apply to InterCity transport passes or tours.
 
----
 
 ## Contributing
 
